@@ -320,8 +320,8 @@ add_custom_packages() {
     # clone_all https://github.com/Openwrt-Passwall/openwrt-passwall
     # clone_all https://github.com/Openwrt-Passwall/openwrt-passwall2
     clone_dir https://github.com/vernesong/OpenClash luci-app-openclash
-    clone_all https://github.com/nikkinikki-org/OpenWrt-nikki
-    clone_all https://github.com/nikkinikki-org/OpenWrt-momo
+    # clone_all https://github.com/nikkinikki-org/OpenWrt-nikki
+    # clone_all https://github.com/nikkinikki-org/OpenWrt-momo
     # clone_dir https://github.com/QiuSimons/luci-app-daed daed luci-app-daed
     # git_clone https://github.com/immortalwrt/homeproxy luci-app-homeproxy
 
