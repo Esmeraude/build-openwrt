@@ -308,7 +308,7 @@ add_custom_packages() {
     # clone_dir https://github.com/sirpdboy/luci-app-ddns-go ddns-go luci-app-ddns-go
     # clone_all https://github.com/sbwml/luci-app-alist
     # clone_all https://github.com/sbwml/luci-app-mosdns
-    git_clone https://github.com/sbwml/packages_lang_golang golang
+    # git_clone https://github.com/sbwml/packages_lang_golang golang
     # clone_all https://github.com/linkease/istore-ui
     # clone_all https://github.com/linkease/istore luci
     # clone_all https://github.com/brvphoenix/luci-app-wrtbwmon
